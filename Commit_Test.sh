@@ -1,1 +1,4 @@
-This is just a test
+#!/bin/bash
+echo "This is just a test"
+
+
